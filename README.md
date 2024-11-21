@@ -8,8 +8,11 @@
 ## Overview of the Project  
 
 ### Project:Computer Vision Task 
-![Screenshot 2024-11-21 214253](https://github.com/user-attachments/assets/8c213689-948e-41b8-b67b-4df02864cc8d)  
-![Screenshot 2024-11-21 194802](https://github.com/user-attachments/assets/835f4522-50a7-41c4-9625-eb9778d3d19f)  
+Fig-1  
+![Screenshot 2024-11-21 214253](https://github.com/user-attachments/assets/8c213689-948e-41b8-b67b-4df02864cc8d) 
+Fig-2  
+![Screenshot 2024-11-21 194802](https://github.com/user-attachments/assets/835f4522-50a7-41c4-9625-eb9778d3d19f)
+Fig-3  
 ![Screenshot 2024-11-21 214356](https://github.com/user-attachments/assets/84e4b8fe-d0df-4d2f-9879-143ad65b4503)  
 
 ### Objective  
