@@ -1,13 +1,13 @@
-**Name:** VURIMELLA SRIJA    
+**Name:** Vurimella Srija    
 **Company:** CODTECH IT SOLUTIONS  
 **ID:**  
-**Domain:**  
-**Duration:**  
-**Mentor:**  
+**Domain:** Artificial Intelligence  
+**Duration:** October 2024 to December 2024    
+**Mentor:** Muzammil Ahmed  
 
 ## Overview of the Project  
 
-### Project:   
+### Project:Computer Vision Task     
 
 ### Objective  
 This project fine-tunes the MobileNetV2 model, pre-trained on ImageNet, for CIFAR-10 classification by adding custom layers and training it on the dataset. It evaluates the model's performance and visualizes training and validation accuracy over epochs.  
